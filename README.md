@@ -1,1 +1,1 @@
-# Data-Science-ML-Projects
+Credit Card Approval Project
